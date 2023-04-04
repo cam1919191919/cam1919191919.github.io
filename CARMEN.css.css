@@ -6,16 +6,27 @@ body{
     text-align: center;
 }
 #pic {
-    margin: 0% 100% 0% 10%;
+    image-orientation:;
 }
 .boton {
     background-color: rgb(223, 179, 217);
     cursor: pointer;
     padding: 40px;
     border-radius: 100%;
-    margin: 0% 50% 0% 0%;
+    margin: 3% 40% 3% 40%;
+    border: none;
+    
 }
 
 #cb {
-border-radius: 100%;
+width: 20%;
+margin: 10% 40% 5%% 40%;
+padding: 20;
+border: none;
+
 }
+.boton-hover{
+    background-color: rgb(218, 84, 146);
+    border: none;
+}
+
