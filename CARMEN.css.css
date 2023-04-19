@@ -1,33 +1,43 @@
+@font-face{
+    font-family: loveyou;
+    src: url(loveyou)
+}
 body{
     background-color: rgb(218, 84, 146);
     text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
 }
 .centro {
     text-align: center;
 }
+.fuente{
+    font-family:'loveyou';
+}
 #pic {
-    image-orientation:;
+    display: block;
+    margin-left: 400px;
+
 }
 .boton {
     background-color: rgb(223, 179, 217);
+    text-decoration: none;
+    color: black;
     cursor: pointer;
     padding: 40px;
-    border-radius: 100%;
-    margin: 3% 40% 3% 40%;
+    margin: 10% 10% 10% 10%;
     border: none;
     
 }
 
 #cb {
-width: 20%;
-margin: 10% 40% 5%% 40%;
-padding: 20;
-border: none;
+width: 200px;
+height: 200px;
+margin: 3% 3% 3% 3%;
+padding: 40px;
 
 }
 .boton-hover{
     background-color: rgb(218, 84, 146);
     border: none;
 }
-
 
