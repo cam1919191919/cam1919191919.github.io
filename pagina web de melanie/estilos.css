@@ -1,0 +1,47 @@
+@font-face{
+    font-family: funny;
+    src: url(FunnyFarmer.ttf)
+}
+body{
+    background-color: rgb(218, 84, 146);
+    text-align: justify;
+}
+.centro {
+    text-align: center;
+    font-family: funny;
+}
+.fuente{
+    font-family:'loveyou';
+}
+#pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.boton {
+    background-color: rgb(223, 179, 217);
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    padding: 20px;
+    margin: 3px 3px 3px 3px;
+    border: none;
+    
+}
+
+.escuchar {
+width: 200px;
+height: 200px;
+margin: 3% 3% 3% 3%;
+}
+
+#titulo{
+    font-size: 60px;
+}
+
+#ae{font-size: 40px;}
+#aa{font-size: 40px;}
+#ee{font-size: 40px;}
+#ii{font-size: 40px;}
